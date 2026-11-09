@@ -1,0 +1,9 @@
+{
+  "name": "sop-risk-analyzer-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Analisis risiko SOP dengan backend AI untuk deployment melalui GitHub dan Vercel",
+  "engines": {
+    "node": ">=20"
+  }
+}
